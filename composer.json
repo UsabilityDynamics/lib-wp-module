@@ -16,8 +16,7 @@
   "require": {
     "php": ">=5.3",
     "composer/installers": "~1.0",
-    "composer-plugin-api": "1.0.0",
-    "UsabilityDynamics/lib-installer": "~0.1"
+    "composer-plugin-api": "1.0.0"
   },
   "require-dev": {
     "composer/composer": "1.0.*@dev",
