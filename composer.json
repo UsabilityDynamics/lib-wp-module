@@ -1,7 +1,6 @@
 {
   "name": "usabilitydynamics/lib-wp-module",
-  "version": "0.1.0",
-  "type": "wordpress-module",
+  "type": "library",
   "license": "MIT",
   "description": "A multi-framework Composer library installer",
   "homepage": "http://composer.github.com/installers/",
